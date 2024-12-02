@@ -1,0 +1,19 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+.env/
+
+# Virtual environment
+hand_gesture_env/
+*.venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# VS Code-specific configurations
+.vscode/
